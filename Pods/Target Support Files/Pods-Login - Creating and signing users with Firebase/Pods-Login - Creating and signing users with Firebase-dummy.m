@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Login___Creating_and_signing_users_with_Firebase : NSObject
+@end
+@implementation PodsDummy_Pods_Login___Creating_and_signing_users_with_Firebase
+@end
